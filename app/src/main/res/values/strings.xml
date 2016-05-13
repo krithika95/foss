@@ -8,10 +8,10 @@
     <string name="no">NO</string>
     <string name="client_text">This device will act as a client.</string>
     <string name="empty_message">No devices found.Turn on P2P and perform discovery.</string>
-    <string name="p2p_off_warning">Enable WI-Fi</string>
+    <string name="p2p_off_warning">Enable Wi-Fi</string>
     <string name="group_owner_text">Group Owner:"</string>
     <string name="label_me">ME</string>
-    <string name="label_peers">PEERS</string>
+    <string name="label_pairing">PAIRING</string>
     <string name="call">CALLING</string>
     <string name="chat">CHATTING</string>
     <string name="share">SHARING</string>
@@ -29,7 +29,7 @@
     <string name="title_activity_chat_history_screen_frag">ChatHistoryScreenFrag</string>
     <string name="refresh_list">Refresh list</string>
     <string name="kill">Kill ()</string>
-    <string name="exit_app">Exit App</string>
+    <string name="exit_app">Exit Application</string>
     <string name="title_activity_chat">ChatActivity</string>
     <string name="alert_dialog_password_TV">Password:</string>
     <string name="main_empty_list">No available content</string>
@@ -54,6 +54,6 @@
 
 
 
-        No discovered peers</string>
+        No discovered pairs</string>
     <string name="action_settings">Settings</string>
 </resources>
