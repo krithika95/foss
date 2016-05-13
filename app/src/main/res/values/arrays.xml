@@ -3,9 +3,9 @@
 <resources>
 
 	<string-array name="updateInterval">
-		<item name="1">20 seconds</item>
-	    <item name="2">30 seconds</item>
-		<item name="3">45 seconds</item>
+		<item name="1">10 seconds</item>
+	    <item name="2">20 seconds</item>
+		<item name="3">35 seconds</item>
 		<item name="4">1 minute</item>
 	</string-array>
 	
